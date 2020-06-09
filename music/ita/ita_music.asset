@@ -1,0 +1,71 @@
+music = {
+	name = "il_canto_degli_italiani"
+	file = "ita_ilcantodegliitaliani.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "marcia_reale"
+	file = "ita_marciareale.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "giovinezza"
+	file = "ita_giovinezza.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "bella_ciao"
+	file = "ita_bellaciao.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "canzone_della_vittoria"
+	file = "ita_canzonedellavittoria.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "duce_duce"
+	file = "ita_duceduce.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "faccetta_nera"
+	file = "ita_faccettanera.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "addio_mia_bella_addio"
+	file = "ita_addiomiabellaaddio.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "vincere_vincere_vincere"
+	file = "ita_vincerevincerevincere.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "4_maggio"
+	file = "ita_4maggio.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "inno_dei_carristi"
+	file = "ita_innodeicarristi.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "fischia_il_sasso"
+	file = "ita_fischiailsasso.ogg"
+	volume = 0.65
+}

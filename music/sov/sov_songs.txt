@@ -1,0 +1,266 @@
+
+music_station = "sov"
+
+music = {
+	song = "national_anthem_of_ussr"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+	}	
+}
+
+music = {
+	song = "alexandrovs_song"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+	}	
+}
+
+music = {
+	song = "bella_ciao_red_army_choir"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+	}	
+}
+
+music = {
+	song = "lets_go"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+	}	
+}
+
+music = {
+	song = "kalinka"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+	}	
+}
+
+music = {
+	song = "katusha"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+	}	
+}
+
+music = {
+	song = "korobeiniki"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+	}	
+}
+
+music = {
+	song = "march_of_motherland"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+	}	
+}
+
+music = {
+	song = "on_the_road"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+	}	
+}
+
+music = {
+	song = "march_of_stalins_artillery"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+	}	
+}
+
+music = {
+	song = "march_of_the_defenders_of_moscow"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+	}	
+}
+
+music = {
+	song = "my_army"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+	}	
+}
+
+music = {
+	song = "the_red_army_is_the_strongest"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+	}	
+}
+
+music = {
+	song = "red_alert3theme_soviet_march"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+	}	
+}
+
+music = {
+	song = "the_partisans_song"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+	}	
+}
+
+music = {
+	song = "there_march_the_soldiers"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+	}	
+}
+
+music = {
+	song = "the_internationale"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+	}	
+}
+
+music = {
+	song = "the_hunt_for_red_october"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+	}	
+}
+
+music = {
+	song = "song_of_the_warsaw_pact"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+	}	
+}
+
+music = {
+	song = "smuglianka"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+	}	
+}
+
+music = {
+	song = "our_fields"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+	}	
+}
+
+music = {
+	song = "the_cossacks"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+	}	
+}
+
+music = {
+	song = "on_the_hills_of_manchuria"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+	}	
+}
+
+music = {
+	song = "farewell_of_slavianka"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+	}	
+}

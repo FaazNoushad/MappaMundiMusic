@@ -1,0 +1,134 @@
+
+music_station = "ita"
+
+music = {
+	song = "il_canto_degli_italiani"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ITA
+		}		
+	}	
+}
+
+music = {
+	song = "marcia_reale"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ITA
+		}		
+	}	
+}
+
+music = {
+	song = "giovinezza"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ITA
+		}		
+	}	
+}
+
+music = {
+	song = "bella_ciao"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ITA
+		}		
+	}	
+}
+
+music = {
+	song = "canzone_della_vittoria"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ITA
+		}		
+	}	
+}
+
+music = {
+	song = "duce_duce"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ITA
+		}		
+	}	
+}
+
+music = {
+	song = "faccetta_nera"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ITA
+		}		
+	}	
+}
+
+music = {
+	song = "addio_mia_bella_addio"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ITA
+		}		
+	}	
+}
+
+music = {
+	song = "vincere_vincere_vincere"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ITA
+		}		
+	}	
+}
+
+music = {
+	song = "4_maggio"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ITA
+		}		
+	}	
+}
+
+music = {
+	song = "inno_dei_carristi"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ITA
+		}		
+	}	
+}
+
+music = {
+	song = "fischia_il_sasso"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ITA
+		}		
+	}	
+}

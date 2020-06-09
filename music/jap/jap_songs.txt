@@ -1,0 +1,134 @@
+
+music_station = "jap"
+
+music = {
+	song = "kimi_ga_yo"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}		
+	}	
+}
+
+music = {
+	song = "comrade_in_arms"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}		
+	}	
+}
+
+music = {
+	song = "pacific_ocean_march"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}		
+	}	
+}
+
+music = {
+	song = "snow_march"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}		
+	}	
+}
+
+music = {
+	song = "song_of_kamikaze_pilots"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}		
+	}	
+}
+
+music = {
+	song = "battotai_march"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}		
+	}	
+}
+
+music = {
+	song = "burning_sky"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}		
+	}	
+}
+
+music = {
+	song = "field_encampment_song"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}		
+	}	
+}
+
+music = {
+	song = "patriotic_march"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}		
+	}	
+}
+
+music = {
+	song = "through_the_day_throughout_the_week"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}		
+	}	
+}
+
+music = {
+	song = "song_which_sees_off_soldiers"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}		
+	}	
+}
+
+music = {
+	song = "song_of_the_fierce_eagles"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}		
+	}	
+}

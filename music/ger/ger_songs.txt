@@ -1,0 +1,332 @@
+
+music_station = "ger"
+
+music = {
+	song = "horst_wessel_lied"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
+	song = "erika"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
+	song = "panzerlied_b"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
+	song = "alte_kameraden"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
+	song = "wenn_wir_marschieren"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
+	song = "funkerlied"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
+	song = "mein_schlesierland"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
+	song = "heil_dir_im_siegerkranz"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
+	song = "das_lied_der_deutschen"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
+	song = "die_wacht_am_rhein"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
+	song = "argonnerwaldlied"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
+	song = "westerwaldlied"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
+	song = "ss_maschiert_in_feindesland"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
+	song = "siegesmarsch_von_metz"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
+	song = "preussens_gloria"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
+	song = "was_ist_des_deutschen_vaterland"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
+	song = "kaiser_wilhelm_siegesmarsch"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
+	song = "schwarzbraun_ist_die_haselnuss_b"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
+	song = "koniggratzer_marsch"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
+	song = "yorkscher_marsch"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
+	song = "wir_lagen_vor_madagaskar"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
+	song = "coburger_marsch"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
+	song = "auferstanden_aus_ruinen"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
+	song = "die_internationale"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
+	song = "der_heimliche_aufmarsch"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
+	song = "der_offene_aufmarsch"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
+	song = "unsere_panzerdivision"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
+	song = "katjuscha"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
+	song = "warschawjanka"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
+	song = "oktobersong"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}

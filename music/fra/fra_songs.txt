@@ -1,0 +1,123 @@
+
+music_station = "fra"
+
+music = {
+	song = "la_marseillaise"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = FRA
+		}		
+	}	
+}
+
+music = {
+	song = "marechal_nous_voila"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = FRA
+		}		
+	}	
+}
+
+music = {
+	song = "le_chant_du_depart"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = FRA
+		}		
+	}	
+}
+
+music = {
+	song = "internationale_noire"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = FRA
+		}		
+	}	
+}
+
+music = {
+	song = "le_front_des_travailleurs"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = FRA
+		}		
+	}	
+}
+
+music = {
+	song = "l_appel_de_l_internationale"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = FRA
+		}		
+	}	
+}
+
+music = {
+	song = "le_chant_des_girondins"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = FRA
+		}		
+	}	
+}
+
+music = {
+	song = "le_capitaine_au_mur"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = FRA
+		}		
+	}	
+}
+
+music = {
+	song = "la_strasbourgeoise"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = FRA
+		}		
+	}	
+}
+
+music = {
+	song = "vous_n_aurez_pas_l_alsace_et_la_lorraine"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = FRA
+		}		
+	}	
+}
+
+music = {
+	song = "on_ne_passe_pas"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = FRA
+		}		
+	}	
+}

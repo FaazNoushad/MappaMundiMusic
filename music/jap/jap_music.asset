@@ -1,0 +1,77 @@
+music = {
+	name = "kimi_ga_yo"
+	file = "jap_kimigayo.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "comrade_in_arms"
+	file = "jap_comradeinarms.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "pacific_ocean_march"
+	file = "jap_pacificoceanmarch.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "snow_march"
+	file = "jap_snowmarch.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "specialty_of_infantry"
+	file = "jap_specialtyofinfantry.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "song_of_kamikaze_pilots"
+	file = "jap_songofkamikazepilots.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "battotai_march"
+	file = "jap_battotaimarch.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "burning_sky"
+	file = "jap_burningsky.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "field_encampment_song"
+	file = "jap_fieldencampmentsong.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "patriotic_march"
+	file = "jap_patrioticmarch.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "through_the_day_throughout_the_week"
+	file = "jap_throughthedaythroughouttheweek.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "song_which_sees_off_soldiers"
+	file = "jap_songwhichseesoffsoldiers.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "song_of_the_fierce_eagles"
+	file = "jap_songofthefierceeagles.ogg"
+	volume = 0.65
+}

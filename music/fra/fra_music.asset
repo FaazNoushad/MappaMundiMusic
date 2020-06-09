@@ -1,0 +1,65 @@
+music = {
+	name = "la_marseillaise"
+	file = "fra_lamarseillaise.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "marechal_nous_voila"
+	file = "fra_marechalnousvoila.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "le_chant_du_depart"
+	file = "fra_lechantdudepart.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "internationale_noire"
+	file = "fra_internationalenoire.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "le_front_des_travailleurs"
+	file = "fra_frontdestravailleurs.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "l_appel_de_l_internationale"
+	file = "fra_lappeldeiinternationale.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "le_chant_des_girondins"
+	file = "fra_lechantdesgirondins.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "le_capitaine_au_mur"
+	file = "fra_lacapitaineaumur.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "la_strasbourgeoise"
+	file = "fra_lastrasbourgeoise.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "vous_n_aurez_pas_l_alsace_et_la_lorraine"
+	file = "fra_vousnaurezpaslalsaceetlalorraine.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "on_ne_passe_pas"
+	file = "fra_onnepassepas.ogg"
+	volume = 0.65
+}

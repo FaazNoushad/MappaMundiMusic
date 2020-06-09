@@ -2,6 +2,11 @@
 
 #Music Stations
  em_TITLE:0 "Expanded Music"
+ ger_TITLE:0 "German Music"
+ fra_TITLE:0 "French Music"
+ ita_TITLE:0 "Italian Music"
+ sov_TITLE:0 "Soviet Music"
+ jap_TITLE:0 "Japanese Music"
 
 #Basic Music
  maintheme:0 "Main Theme - Historic Geographical Overhaul"
