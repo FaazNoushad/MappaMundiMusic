@@ -5,4 +5,34 @@ spriteTypes = {
 		texturefile = "gfx//interface//topbar//musicplayer//em_album_art.dds"
 		noOfFrames = 2
 	}
+	
+	spriteType = {
+		name = "GFX_ger_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//ger_album_art.dds"
+		noOfFrames = 2
+	}
+	
+	spriteType = {
+		name = "GFX_ita_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//ita_album_art.dds"
+		noOfFrames = 2
+	}
+	
+	spriteType = {
+		name = "GFX_fra_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//fra_album_art.dds"
+		noOfFrames = 2
+	}
+	
+	spriteType = {
+		name = "GFX_sov_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//sov_album_art.dds"
+		noOfFrames = 2
+	}
+	
+	spriteType = {
+		name = "GFX_jap_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//jap_album_art.dds"
+		noOfFrames = 2
+	}
 }
