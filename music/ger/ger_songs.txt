@@ -13,6 +13,17 @@ music = {
 }
 
 music = {
+	song = "bayerische_konigshymne"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
 	song = "erika"
 	
 	chance = {
@@ -146,6 +157,17 @@ music = {
 
 music = {
 	song = "siegesmarsch_von_metz"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
+	song = "preussenlied"
 	
 	chance = {
 		modifier = {

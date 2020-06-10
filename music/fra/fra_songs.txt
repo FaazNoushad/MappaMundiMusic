@@ -13,6 +13,39 @@ music = {
 }
 
 music = {
+	song = "la_parisienne"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = FRA
+		}		
+	}	
+}
+
+music = {
+	song = "bourbon_restoration"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = FRA
+		}		
+	}	
+}
+
+music = {
+	song = "partant_pour_la_syrie"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = FRA
+		}		
+	}	
+}
+
+music = {
 	song = "marechal_nous_voila"
 	
 	chance = {

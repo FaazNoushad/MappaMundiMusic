@@ -14,6 +14,8 @@
 #Custom Music
  
  #Songs for all Nations
+ movement_proposition:0 "Movement Proposition"
+ hitman:0 "Hitman"
  showdown:0 "Showdown"
  black_vortex:0 "Black Vortex"
  evil_march:0 "Evil March"
@@ -23,6 +25,7 @@
  
  #Germany
  horst_wessel_lied:0 "Horst Wessel Lied (German)"
+ bayerische_konigshymne:0 "Bayerische Königshymne (German)"
  erika:0 "Erika (German)"
  panzerlied:0 "Panzerlied (German)"
  panzerlied_b:0 "Panzerlied (HOI4)"
@@ -38,6 +41,7 @@
  westerwaldlied:0 "Westerwaldlied (German)"
  siegesmarsch_von_metz:0 "Siegesmarsch von Metz (German)"
  preussens_gloria:0 "Preußens Gloria (German)"
+ preussenlied:0 "Preußenlied (German)"
  was_ist_des_deutschen_vaterland:0 "Was ist des deutschen Vaterland? (German)"
  kaiser_wilhelm_siegesmarsch:0 "Kaiser Wilhelm Siegesmarsch (German)"
  schwarzbraun_ist_die_haselnuss:0 "Schwarzbraun ist die Haselnuss (German)"
@@ -71,6 +75,7 @@
  
  #USSR
  national_anthem_of_ussr:0 "National Anthem of the USSR (Soviet)"
+ national_anthem_of_russia:0 "National Anthem of the Russia (Soviet)"
  alexandrovs_song:0 "Alexandrov's Song (Soviet)"
  bella_ciao_red_army_choir:0 "Bella Ciao - Red Army Choir (Soviet)"
  lets_go:0 "Let's Go (Soviet)"
@@ -97,6 +102,8 @@
  
  #Italy
  il_canto_degli_italiani:0 "Il Canto Degli Italiani (Italian)"
+ gran_marcia_trionfale:0 "Gran Marcia Trionfale (Italian)"
+ hymnu_sardu_nationali:0 "S'hymnu Sardu Nationale (Italian)"
  marcia_reale:0 "Marcia Reale (Italian)"
  giovinezza:0 "Giovinezza (Italian)"
  bella_ciao:0 "Bella Ciao (Italian)"
@@ -107,12 +114,16 @@
  vincere_vincere_vincere:0 "Vincere! Vincere! Vincere! (Italian)"
  4_maggio:0 "4 Maggio (Italian)"
  inno_dei_carristi:0 "Inno dei Carristi (Italian)"
+ inno_al_re:0 "Inno al Re (Italian)"
  fischia_il_sasso:0 "Fischia il Sasso (Italian)"
  
  #France
  la_marseillaise:0 "La Marseillaise (French)"
  marechal_nous_voila:0 "Maréchal, nous voilà (French)"
  le_chant_du_depart:0 "Le Chant du départ (French)"
+ bourbon_restoration:0 "Le Retour des Princes français à Paris (French)"
+ partant_pour_la_syrie:0 "Partant pour la Syrie (French)"
+ la_parisienne:0 "La Parisienne (French)"
  internationale_noire:0 "Internationale Noire (French)"
  le_front_des_travailleurs:0 "Le Front des Travailleurs (French)"
  l_appel_de_l_internationale:0 "L'Appel de l'Internationale (French)"

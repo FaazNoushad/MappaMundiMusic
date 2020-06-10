@@ -5,14 +5,32 @@ music = {
 }
 
 music = {
+	name = "la_parisienne"
+	file = "fra_laparisienne.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "marechal_nous_voila"
 	file = "fra_marechalnousvoila.ogg"
 	volume = 0.65
 }
 
 music = {
+	name = "partant_pour_la_syrie"
+	file = "fra_partantpourlasyrie.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "le_chant_du_depart"
 	file = "fra_lechantdudepart.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "bourbon_restoration"
+	file = "fra_bourbonrestoration.ogg"
 	volume = 0.65
 }
 

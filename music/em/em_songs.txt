@@ -12,7 +12,27 @@ music = {
 }
 
 music = {
+	song = "hitman"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}	
+}
+
+music = {
 	song = "black_vortex"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}	
+}
+
+music = {
+	song = "movement_proposition"
 	
 	chance = {
 		modifier = {

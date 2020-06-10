@@ -13,6 +13,17 @@ music = {
 }
 
 music = {
+	song = "hymnu_sardu_nationali"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ITA
+		}		
+	}	
+}
+
+music = {
 	song = "marcia_reale"
 	
 	chance = {
@@ -102,6 +113,28 @@ music = {
 
 music = {
 	song = "4_maggio"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ITA
+		}		
+	}	
+}
+
+music = {
+	song = "gran_marcia_trionfale"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ITA
+		}		
+	}	
+}
+
+music = {
+	song = "inno_al_re"
 	
 	chance = {
 		modifier = {
