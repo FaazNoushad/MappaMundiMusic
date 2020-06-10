@@ -72,7 +72,7 @@ music = {
 
 music = {
 	name = "inno_al_re"
-	file = "ita_innodeicarristi.ogg"
+	file = "ita_innoalre.ogg"
 	volume = 0.65
 }
 
