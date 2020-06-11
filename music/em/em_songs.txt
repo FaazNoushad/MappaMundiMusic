@@ -12,6 +12,36 @@ music = {
 }
 
 music = {
+	song = "mozart_requiem"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}	
+}
+
+music = {
+	song = "grand_inquisition"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}	
+}
+
+music = {
+	song = "devastation_and_revenge"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}	
+}
+
+music = {
 	song = "hitman"
 	
 	chance = {
