@@ -1,6 +1,6 @@
 ﻿l_english:
 
-#Music Stations
+ #Music Stations
  em_TITLE:0 "Expanded Music"
  ger_TITLE:0 "German Music"
  fra_TITLE:0 "French Music"
@@ -8,10 +8,8 @@
  sov_TITLE:0 "Soviet Music"
  jap_TITLE:0 "Japanese Music"
 
-#Basic Music
+ #Basic Music
  maintheme:0 "Main Theme - Historic Geographical Overhaul"
- 
-#Custom Music
  
  #Songs for all Nations
  movement_proposition:0 "Movement Proposition"
