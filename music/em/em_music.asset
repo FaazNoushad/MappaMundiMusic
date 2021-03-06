@@ -63,3 +63,99 @@ music = {
 	file = "all_dangerous.ogg"
 	volume = 0.65
 }
+
+music = {
+	name = "maintheme"
+	file = "Colonel_Bogey_March.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "boogie_woogie_bugle_boy"
+	file = "all_boogiewoogiebugleboy.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "dont_lets_be_beastly_to_the_germans"
+	file = "all_dontletsbebeastlytothegermans.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "katyusha"
+	file = "all_katyusha.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "kiss_me_goodnight_sergeant_major"
+	file = "all_kissmegoodnightsergeantmajor.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "praise_the_lord_and_pass_the_ammunition"
+	file = "all_praisethelordandpasstheammunition.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "stalin_wasnt_stallin"
+	file = "all_stalinwasntstallin.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "the_white_cliffs_of_dover"
+	file = "all_thewhitecliffsofdover.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "tojo"
+	file = "all_tojo.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "its_a_long_way_to_tipperary"
+	file = "all_itsalongwaytotipperary.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "lili_marleen"
+	file = "all_lilimarleen.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "over_there"
+	file = "all_overthere.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "were_gonna_hang_out_the_washing_on_the_siegfried_line"
+	file = "all_weregonnahangoutthewashingonthesiegfriedline.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "well_meet_again"
+	file = "all_wellmeetagain.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "place_in_the_sun"
+	file = "all_placeinthesun.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "whats_my_scene"
+	file = "all_whatsmyscene.ogg"
+	volume = 0.9
+}

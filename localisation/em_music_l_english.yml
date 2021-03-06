@@ -9,7 +9,7 @@
  jap_TITLE:0 "Japanese Music"
 
  #Basic Music
- maintheme:0 "Main Theme - Historic Geographical Overhaul"
+ maintheme:0 "Colonel Bogey March"
  
  #Songs for all Nations
  movement_proposition:0 "Movement Proposition"
@@ -23,6 +23,19 @@
  five_armies:0 "Five Armies"
  second_coming:0 "Second Coming"
  dangerous:0 "Dangerous"
+ boogie_woogie_bugle_boy:0 "Boogie Woogie Bugle Boy"
+ dont_lets_be_beastly_to_the_germans:0 "Don't Let's Be Beastly To The Germans"
+ katyusha:0 "Katyusha"
+ kiss_me_goodnight_sergeant_major:0 "Kiss Me Goodnight Sergeant Major"
+ praise_the_lord_and_pass_the_ammunition:0 "Praise The Lord And Pass The Ammunition"
+ stalin_wasnt_stallin:0 "Stalin Wasn't Stallin'"
+ the_white_cliffs_of_dover:0 "The White Cliffs of Dover"
+ tojo:0 "Tojo Never Made it to Darwin"
+ its_a_long_way_to_tipperary:0 "It's A Long Way To Tipperary"
+ lili_marleen:0 "Lili Marleen"
+ over_there:0 "Over There"
+ were_gonna_hang_out_the_washing_on_the_siegfried_ine:0 "We're Gonna Hang Out The Washing On The Siegfried Line"
+ well_meet_again:0 "We'll Meet Again"
  
  #Germany
  horst_wessel_lied:0 "Horst Wessel Lied (German)"

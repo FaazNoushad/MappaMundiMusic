@@ -2,6 +2,17 @@
 music_station = "sov"
 
 music = {
+	song = "national_anthem_of_russia"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+	}	
+}
+
+music = {
 	song = "national_anthem_of_ussr"
 	
 	chance = {
