@@ -1,5 +1,15 @@
 
-music_station = "em"
+music_station = "mm"
+
+music = {
+	song = "colonel_bogey_march"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}	
+}
 
 music = {
 	song = "boogie_woogie_bugle_boy"
@@ -143,16 +153,6 @@ music = {
 
 music = {
 	song = "whats_my_scene"
-	
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}	
-}
-
-music = {
-	song = "showdown"
 	
 	chance = {
 		modifier = {

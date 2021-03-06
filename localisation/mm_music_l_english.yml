@@ -1,7 +1,7 @@
 ﻿l_english:
 
  #Music Stations
- em_TITLE:0 "Expanded Music"
+ mm_TITLE:0 "Mappa Mundi Music"
  ger_TITLE:0 "German Music"
  fra_TITLE:0 "French Music"
  ita_TITLE:0 "Italian Music"
@@ -9,7 +9,7 @@
  jap_TITLE:0 "Japanese Music"
 
  #Basic Music
- maintheme:0 "Colonel Bogey March"
+ maintheme:0 "Main Theme - Mappa Mundi"
  
  #Songs for all Nations
  movement_proposition:0 "Movement Proposition"
@@ -36,6 +36,7 @@
  over_there:0 "Over There"
  were_gonna_hang_out_the_washing_on_the_siegfried_ine:0 "We're Gonna Hang Out The Washing On The Siegfried Line"
  well_meet_again:0 "We'll Meet Again"
+ colonel_bogey_march:0 "Colonel Bogey March"
  
  #Germany
  horst_wessel_lied:0 "Horst Wessel Lied (German)"

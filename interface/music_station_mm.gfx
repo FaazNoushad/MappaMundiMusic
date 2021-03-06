@@ -1,7 +1,7 @@
 spriteTypes = {
 	
 	spriteType = {
-		name = "GFX_em_album_art"
+		name = "GFX_mm_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//em_album_art.dds"
 		noOfFrames = 2
 	}
