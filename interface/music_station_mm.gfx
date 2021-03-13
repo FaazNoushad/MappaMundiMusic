@@ -35,4 +35,16 @@ spriteTypes = {
 		texturefile = "gfx//interface//topbar//musicplayer//jap_album_art.dds"
 		noOfFrames = 2
 	}
+	
+	spriteType = {
+		name = "GFX_usa_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//usa_album_art.dds"
+		noOfFrames = 2
+	}
+	
+	spriteType = {
+		name = "GFX_eng_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//eng_album_art.dds"
+		noOfFrames = 2
+	}
 }

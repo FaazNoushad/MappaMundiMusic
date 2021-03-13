@@ -1,0 +1,23 @@
+music = {
+	name = "boogiewoogiebugleboy"
+	file = "usa_boogiewoogiebugleboy.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "overthere"
+	file = "usa_overthere.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "praisethelordandpasstheammunition"
+	file = "usa_praisethelordandpasstheammunition.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "stalinwasntstallin"
+	file = "usa_stalinwasntstallin.ogg"
+	volume = 0.9
+}

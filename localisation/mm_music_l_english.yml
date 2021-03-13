@@ -7,6 +7,8 @@
  ita_TITLE:0 "Italian Music"
  sov_TITLE:0 "Soviet Music"
  jap_TITLE:0 "Japanese Music"
+ usa_TITLE:0 "American Music"
+ eng_TITLE:0 "British Music"
 
  #Basic Music
  maintheme:0 "Main Theme - Mappa Mundi"

@@ -1,0 +1,42 @@
+
+music_station = "usa"
+
+music = {
+	song = "boogiewoogiebugleboy"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}	
+}
+
+music = {
+	song = "overthere"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}	
+}
+
+music = {
+	song = "praisethelordandpasstheammunition"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}	
+}
+
+music = {
+	song = "stalinwasntstallin"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}	
+}

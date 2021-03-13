@@ -79,6 +79,17 @@ music = {
 }
 
 music = {
+	song = "katyusha"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+	}	
+}
+
+music = {
 	song = "korobeiniki"
 	
 	chance = {

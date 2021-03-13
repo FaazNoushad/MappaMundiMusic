@@ -1,0 +1,59 @@
+music = {
+	name = "colonelbogeymarch"
+	file = "eng_colonelbogeymarch.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "dontletsbebeastlytothegermans"
+	file = "eng_dontletsbebeastlytothegermans.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "itsalongwaytotipperary"
+	file = "eng_itsalongwaytotipperary.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "kissmegoodnightsergeantmajor"
+	file = "eng_kissmegoodnightsergeantmajor.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "placeinthesun"
+	file = "eng_placeinthesun.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "thewhitecliffsofdover"
+	file = "eng_thewhitecliffsofdover.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "tojo"
+	file = "eng_tojo.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "wellmeetagain"
+	file = "eng_wellmeetagain.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "weregonnahangoutthewashingonthesiegfriedline"
+	file = "eng_weregonnahangoutthewashingonthesiegfriedline.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "whatsmyscene"
+	file = "eng_whatsmyscene.ogg"
+	volume = 0.9
+}

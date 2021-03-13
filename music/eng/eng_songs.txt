@@ -1,8 +1,8 @@
 
-music_station = "mm"
+music_station = "eng"
 
 music = {
-	song = "mozart_requiem"
+	song = "colonelbogeymarch"
 	
 	chance = {
 		modifier = {
@@ -12,7 +12,7 @@ music = {
 }
 
 music = {
-	song = "grand_inquisition"
+	song = "dontletsbebeastlytothegermans"
 	
 	chance = {
 		modifier = {
@@ -22,7 +22,7 @@ music = {
 }
 
 music = {
-	song = "lilimarleen"
+	song = "itsalongwaytotipperary"
 	
 	chance = {
 		modifier = {
@@ -32,7 +32,7 @@ music = {
 }
 
 music = {
-	song = "devastation_and_revenge"
+	song = "kissmegoodnightsergeantmajor"
 	
 	chance = {
 		modifier = {
@@ -42,7 +42,7 @@ music = {
 }
 
 music = {
-	song = "hitman"
+	song = "placeinthesun"
 	
 	chance = {
 		modifier = {
@@ -52,7 +52,7 @@ music = {
 }
 
 music = {
-	song = "black_vortex"
+	song = "thewhitecliffsofdover"
 	
 	chance = {
 		modifier = {
@@ -62,7 +62,7 @@ music = {
 }
 
 music = {
-	song = "movement_proposition"
+	song = "tojo"
 	
 	chance = {
 		modifier = {
@@ -72,7 +72,7 @@ music = {
 }
 
 music = {
-	song = "evil_march"
+	song = "wellmeetagain"
 	
 	chance = {
 		modifier = {
@@ -82,7 +82,7 @@ music = {
 }
 
 music = {
-	song = "five_armies"
+	song = "tojo"
 	
 	chance = {
 		modifier = {
@@ -92,7 +92,7 @@ music = {
 }
 
 music = {
-	song = "second_coming"
+	song = "weregonnahangoutthewashingonthesiegfriedline"
 	
 	chance = {
 		modifier = {
@@ -102,7 +102,7 @@ music = {
 }
 
 music = {
-	song = "dangerous"
+	song = "whatsmyscene"
 	
 	chance = {
 		modifier = {
