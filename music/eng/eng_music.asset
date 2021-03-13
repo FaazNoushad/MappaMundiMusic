@@ -1,35 +1,35 @@
 music = {
-	name = "colonelbogeymarch"
+	name = "colonel_bogey_march"
 	file = "eng_colonelbogeymarch.ogg"
 	volume = 0.9
 }
 
 music = {
-	name = "dontletsbebeastlytothegermans"
+	name = "dont_lets_be_beastly_to_the_germans"
 	file = "eng_dontletsbebeastlytothegermans.ogg"
 	volume = 0.9
 }
 
 music = {
-	name = "itsalongwaytotipperary"
+	name = "its_a_long_way_to_tipperary"
 	file = "eng_itsalongwaytotipperary.ogg"
 	volume = 0.9
 }
 
 music = {
-	name = "kissmegoodnightsergeantmajor"
+	name = "kiss_me_goodnight_sergeant_major"
 	file = "eng_kissmegoodnightsergeantmajor.ogg"
 	volume = 0.9
 }
 
 music = {
-	name = "placeinthesun"
+	name = "place_in_the_sun"
 	file = "eng_placeinthesun.ogg"
 	volume = 0.9
 }
 
 music = {
-	name = "thewhitecliffsofdover"
+	name = "the_white_cliffs_of_dover"
 	file = "eng_thewhitecliffsofdover.ogg"
 	volume = 0.9
 }
@@ -41,19 +41,19 @@ music = {
 }
 
 music = {
-	name = "wellmeetagain"
+	name = "well_meet_again"
 	file = "eng_wellmeetagain.ogg"
 	volume = 0.9
 }
 
 music = {
-	name = "weregonnahangoutthewashingonthesiegfriedline"
+	name = "were_gonna_hang_out_the_washing_on_the_siegfried_line"
 	file = "eng_weregonnahangoutthewashingonthesiegfriedline.ogg"
 	volume = 0.9
 }
 
 music = {
-	name = "whatsmyscene"
+	name = "whats_my_scene"
 	file = "eng_whatsmyscene.ogg"
 	volume = 0.9
 }

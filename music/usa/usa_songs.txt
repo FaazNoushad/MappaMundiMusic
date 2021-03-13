@@ -2,41 +2,45 @@
 music_station = "usa"
 
 music = {
-	song = "boogiewoogiebugleboy"
+	song = "boogie_woogie_bugle_boy"
 	
 	chance = {
 		modifier = {
-			factor = 1
-		}		
-	}	
+			factor = 2
+			tag = USA
+		}
+	}
+}	
+
+music = {
+	song = "over_there"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = USA
+		}
+	}
 }
 
 music = {
-	song = "overthere"
+	song = "praise_the_lord_and_pass_the_ammunition"
 	
 	chance = {
 		modifier = {
-			factor = 1
-		}		
-	}	
-}
+			factor = 2
+			tag = USA
+		}
+	}
+}	
 
 music = {
-	song = "praisethelordandpasstheammunition"
+	song = "stalin_wasnt_stallin"
 	
 	chance = {
 		modifier = {
-			factor = 1
-		}		
-	}	
-}
-
-music = {
-	song = "stalinwasntstallin"
-	
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}	
+			factor = 2
+			tag = USA
+		}
+	}
 }

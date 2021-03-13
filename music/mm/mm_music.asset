@@ -29,7 +29,7 @@ music = {
 }
 
 music = {
-	name = "lilimarleen"
+	name = "lili_marleen"
 	file = "all_lilimarleen.ogg"
 	volume = 0.65
 }
@@ -37,12 +37,6 @@ music = {
 music = {
 	name = "maintheme"
 	file = "all_mmtheme.ogg"
-	volume = 0.9
-}
-
-music = {
-	name = "Colonel_Bogey_March"
-	file = "all_colonelbogeymarch.ogg"
 	volume = 0.9
 }
 

@@ -2,63 +2,93 @@
 music_station = "eng"
 
 music = {
-	song = "colonelbogeymarch"
+	song = "colonel_bogey_march"
 	
 	chance = {
 		modifier = {
-			factor = 1
-		}		
-	}	
+			factor = 2
+			tag = ENG
+		}
+		modifier = {
+			factor = 2
+			tag = EGL
+		}
+	}
 }
 
 music = {
-	song = "dontletsbebeastlytothegermans"
+	song = "dont_lets_be_beastly_to_the_germans"
 	
 	chance = {
 		modifier = {
-			factor = 1
-		}		
-	}	
+			factor = 2
+			tag = ENG
+		}
+		modifier = {
+			factor = 2
+			tag = EGL
+		}
+	}
 }
 
 music = {
-	song = "itsalongwaytotipperary"
+	song = "its_a_long_way_to_tipperary"
 	
 	chance = {
 		modifier = {
-			factor = 1
-		}		
-	}	
+			factor = 2
+			tag = ENG
+		}
+		modifier = {
+			factor = 2
+			tag = EGL
+		}
+	}
 }
 
 music = {
-	song = "kissmegoodnightsergeantmajor"
+	song = "kiss_me_goodnight_sergeant_major"
 	
 	chance = {
 		modifier = {
-			factor = 1
-		}		
-	}	
+			factor = 2
+			tag = ENG
+		}
+		modifier = {
+			factor = 2
+			tag = EGL
+		}
+	}
 }
 
 music = {
-	song = "placeinthesun"
+	song = "place_in_the_sun"
 	
 	chance = {
 		modifier = {
-			factor = 1
-		}		
-	}	
+			factor = 2
+			tag = ENG
+		}
+		modifier = {
+			factor = 2
+			tag = EGL
+		}
+	}
 }
 
 music = {
-	song = "thewhitecliffsofdover"
+	song = "the_white_cliffs_of_dover"
 	
 	chance = {
 		modifier = {
-			factor = 1
-		}		
-	}	
+			factor = 2
+			tag = ENG
+		}
+		modifier = {
+			factor = 2
+			tag = EGL
+		}
+	}
 }
 
 music = {
@@ -66,19 +96,29 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-		}		
-	}	
+			factor = 2
+			tag = ENG
+		}
+		modifier = {
+			factor = 2
+			tag = EGL
+		}
+	}
 }
 
 music = {
-	song = "wellmeetagain"
+	song = "well_meet_again"
 	
 	chance = {
 		modifier = {
-			factor = 1
-		}		
-	}	
+			factor = 2
+			tag = ENG
+		}
+		modifier = {
+			factor = 2
+			tag = EGL
+		}
+	}
 }
 
 music = {
@@ -86,27 +126,50 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-		}		
-	}	
+			factor = 2
+			tag = ENG
+		}
+		modifier = {
+			factor = 2
+			tag = EGL
+		}
+	}
+		modifier = {
+			factor = 2
+			tag = AST
+		}
 }
 
 music = {
-	song = "weregonnahangoutthewashingonthesiegfriedline"
+	song = "were_gonna_hang_out_the_washing_on_the_siegfried_line"
 	
 	chance = {
 		modifier = {
-			factor = 1
-		}		
-	}	
+			factor = 2
+			tag = ENG
+		}
+		modifier = {
+			factor = 2
+			tag = EGL
+		}
+	}
 }
 
 music = {
-	song = "whatsmyscene"
+	song = "whats_my_scene"
 	
 	chance = {
 		modifier = {
-			factor = 1
-		}		
-	}	
+			factor = 2
+			tag = ENG
+		}
+		modifier = {
+			factor = 2
+			tag = EGL
+		}
+		modifier = {
+			factor = 2
+			tag = AST
+		}
+	}
 }
