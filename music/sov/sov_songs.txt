@@ -390,3 +390,18 @@ music = {
 		}
 	}	
 }
+
+music = {
+	song = "sacred_war"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+		modifier = {
+			factor = 2
+			tag = RUS
+		}
+	}	
+}

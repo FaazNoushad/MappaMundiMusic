@@ -153,3 +153,9 @@ music = {
 	file = "sov_farewellofslavianka.ogg"
 	volume = 0.65
 }
+
+music = {
+	name = "sacred_war"
+	file = "sov_sacredwar.ogg"
+	volume = .065
+}
