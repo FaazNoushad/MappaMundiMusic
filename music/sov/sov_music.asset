@@ -157,5 +157,5 @@ music = {
 music = {
 	name = "sacred_war"
 	file = "sov_sacredwar.ogg"
-	volume = .065
+	volume = 0.65
 }
