@@ -8,4 +8,4 @@ dependencies={
 	"Mappa Mundi"
 }
 supported_version="1.10.*"
-path="C:/Users/lenovo/Contacts/Documents/Paradox Interactive/Hearts of Iron IV/mod/MappaMundiMusic"
+path="mod/MappaMundiMusic"
