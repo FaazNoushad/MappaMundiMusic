@@ -352,3 +352,15 @@ music = {
 		}		
 	}	
 }
+
+music = {
+	song = "einheitsfrontlied"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
+

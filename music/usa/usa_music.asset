@@ -21,3 +21,9 @@ music = {
 	file = "usa_stalinwasntstallin.ogg"
 	volume = 0.9
 }
+
+music = {
+	name = "united_front"
+	file = "usa_unitedfront"
+	volume = 0.9
+}

@@ -8,4 +8,4 @@ dependencies={
 	"Mappa Mundi"
 }
 supported_version="1.10.*"
-path="mod/MappaMundiMusic"
+path="GitHub/MappaMundiMusic"

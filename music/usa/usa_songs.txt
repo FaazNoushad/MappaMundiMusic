@@ -44,3 +44,14 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "united_front"
+		
+	chance = {
+		modifier = {
+			factor = 2
+			tag = USA
+		}
+	}
+}
