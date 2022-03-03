@@ -57,6 +57,17 @@ music = {
 }
 
 music = {
+	song = "le_chant_du_diable"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = FRA
+		}		
+	}	
+}
+
+music = {
 	song = "le_chant_du_depart"
 	
 	chance = {

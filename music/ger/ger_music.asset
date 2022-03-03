@@ -17,6 +17,12 @@ music = {
 }
 
 music = {
+	name = "lili_marleen"
+	file = "ger_lilimarleen.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "panzerlied_b"
 	file = "ger_panzerlied_b.ogg"
 	volume = 0.65
@@ -198,7 +204,7 @@ music = {
 
 music = {
 	name = "einheitsfrontlied"
-	file = "ger_einheitsfrontlied"
+	file = "ger_einheitsfrontlied.ogg"
 	volume = 0.65
 }
 

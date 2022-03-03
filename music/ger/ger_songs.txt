@@ -24,6 +24,17 @@ music = {
 }
 
 music = {
+	song = "lili_marleen"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}		
+	}	
+}
+
+music = {
 	song = "erika"
 	
 	chance = {

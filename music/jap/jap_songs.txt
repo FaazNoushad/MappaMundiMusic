@@ -35,6 +35,17 @@ music = {
 }
 
 music = {
+	song = "ode_of_showa_restoration"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = JAP
+		}		
+	}	
+}
+
+music = {
 	song = "snow_march"
 	
 	chance = {
