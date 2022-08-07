@@ -10,9 +10,6 @@
  usa_TITLE:0 "American Music"
  eng_TITLE:0 "British Music"
 
- #Basic Music
- maintheme:0 "Main Theme - Mappa Mundi"
- 
  # HOI4 Soundtrack
  allies_war_4:0 "Allies Theme"
  allies_war_3:0 "The Enemy Will Not Pass"
@@ -78,17 +75,12 @@
  wearefree:0 "We Are Free"
  
  #Songs for all Nations
- movement_proposition:0 "Movement Proposition"
- devastation_and_revenge:0 "Devastation And revenge"
- grand_inquisition:0 "Grand Inquisition"
- mozart_requiem:0 "Mozart - Requiem"
- hitman:0 "Hitman"
- showdown:0 "Showdown"
- black_vortex:0 "Black Vortex"
- evil_march:0 "Evil March"
- five_armies:0 "Five Armies"
- second_coming:0 "Second Coming"
- dangerous:0 "Dangerous"
+ maintheme:0 "Main Theme - Mappa Mundi"
+ mozart_requiem:0 "Requiem in D Minor (Mozart)"
+ piano_concerto_one:0 "Piano Concerto No. 1 in B Flat Minor (Tchaikovsky)"
+ symphony_nine_from_the_new_world:0 "Symphony No. 9 'From the New World' (Dvorak)"
+ march_slave:0 "March Slave (Tchaikovsky)"
+
  
  #UK
  dont_lets_be_beastly_to_the_germans:0 "Don't Let's Be Beastly To The Germans (UK)"

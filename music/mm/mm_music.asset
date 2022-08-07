@@ -1,38 +1,4 @@
-music = {
-	name = "showdown"
-	file = "all_showdown.ogg"
-	volume = 0.65
-}
 
-music = {
-	name = "black_vortex"
-	file = "all_blackvortex.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "hitman"
-	file = "all_hitman.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "devastation_and_revenge"
-	file = "all_devastationandrevenge.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "grand_inquisition"
-	file = "all_grandinquisition.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "lili_marleen"
-	file = "all_lilimarleen.ogg"
-	volume = 0.65
-}
 
 music = {
 	name = "maintheme"
@@ -43,35 +9,29 @@ music = {
 music = {
 	name = "mozart_requiem"
 	file = "all_mozartrequiem.ogg"
-	volume = 0.65
+	volume = 0.9
+}
+
+music = {	
+	name = "symphony_nine_from_the_new_world"
+	file = "all_symphonyninefromthenewworld.ogg"
+	volume = 0.9
 }
 
 music = {
-	name = "evil_march"
-	file = "all_evilmarch.ogg"
-	volume = 0.65
+	name = "liebestraum"
+	file = "all_liebestraum.ogg"
+	volume = 0.9
 }
 
 music = {
-	name = "five_armies"
-	file = "all_fivearmies.ogg"
-	volume = 0.65
+	name = "march_slave"
+	file = "all_marchslave.ogg"
+	volume = 0.9
 }
 
 music = {
-	name = "second_coming"
-	file = "all_secondcoming.ogg"
-	volume = 0.65
-}
+	name = "piano_concerto_one"
+	file = "all_pianoconcertoone.ogg"
 
-music = {
-	name = "movement_proposition"
-	file = "all_movementproposition.ogg"
-	volume = 0.65
-}
 
-music = {
-	name = "dangerous"
-	file = "all_dangerous.ogg"
-	volume = 0.65
-}

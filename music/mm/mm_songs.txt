@@ -12,101 +12,51 @@ music = {
 }
 
 music = {
-	song = "grand_inquisition"
+	song = "maintheme"
 	
 	chance = {
 		modifier = {
 			factor = 1
-		}		
-	}	
+		}
+	}
 }
 
 music = {
-	song = "lilimarleen"
+	song = "liebestraum"
 	
 	chance = {
 		modifier = {
-			factor = 1
-		}		
-	}	
+			factor 1
+		}
+	}
 }
 
 music = {
-	song = "devastation_and_revenge"
+	song = "march_slave"
 	
 	chance = {
 		modifier = {
 			factor = 1
-		}		
-	}	
+		}
+	}
 }
 
 music = {
-	song = "hitman"
+	song = "piano_concerto_one"
 	
 	chance = {
 		modifier = {
 			factor = 1
-		}		
-	}	
+		}
+	}
 }
 
 music = {
-	song = "black_vortex"
+	song = "symphony_nine_from_the_new_world"
 	
 	chance = {
 		modifier = {
 			factor = 1
-		}		
-	}	
-}
-
-music = {
-	song = "movement_proposition"
-	
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}	
-}
-
-music = {
-	song = "evil_march"
-	
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}	
-}
-
-music = {
-	song = "five_armies"
-	
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}	
-}
-
-music = {
-	song = "second_coming"
-	
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}	
-}
-
-music = {
-	song = "dangerous"
-	
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}	
+		}
+	}
 }
