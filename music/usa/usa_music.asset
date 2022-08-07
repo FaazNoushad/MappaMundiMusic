@@ -24,6 +24,30 @@ music = {
 
 music = {
 	name = "united_front"
-	file = "usa_unitedfront"
+	file = "usa_unitedfront.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "battle_cry_of_freedom"
+	file = "usa_battlecryoffreedom.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "star_spangled_banner"
+	file = "usa_starspangledbanner.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "battle_hymn_of_the_republic"
+	file = "usa_battlehymnoftherepublic.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "yankee_doodle"
+	file = "usa_yankeedoodle.ogg"
 	volume = 0.9
 }
