@@ -165,3 +165,15 @@ music = {
 		}		
 	}	
 }
+
+music = {
+	song = "degeneration"
+	
+	chance = {
+		modifier = {	
+			factor = 2
+			tag = FRA
+			tag = QUE
+		}
+	}
+}
