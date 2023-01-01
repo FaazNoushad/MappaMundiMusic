@@ -165,3 +165,14 @@ music = {
 		}		
 	}	
 }
+
+music = {
+	song = "com_e_bella_la_citta"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ITA
+		}		
+	}	
+}

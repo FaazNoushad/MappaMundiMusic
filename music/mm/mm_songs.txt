@@ -52,6 +52,26 @@ music = {
 }
 
 music = {
+	song = "the_blue_danube_waltz"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "ode_an_die_freude"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
 	song = "symphony_nine_from_the_new_world"
 	
 	chance = {

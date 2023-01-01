@@ -81,6 +81,8 @@
  symphony_nine_from_the_new_world:0 "Symphony No. 9 'From the New World' (Dvorak)"
  march_slave:0 "March Slave (Tchaikovsky)"
  liebestraum:0 "Liebestraum No. 3 (Liszt)"
+ the_blue_danube_waltz:0 "The Blue Danube Waltz (Strauss)"
+ ode_an_die_freude:0 "Ode an Die Freude (Beethoven)"
 
  
  #UK
@@ -94,6 +96,8 @@
  whats_my_scene:0 "What's My Scene ? (UK)"
  place_in_the_sun:0 "Place In The Sun (UK)"
  colonel_bogey_march:0 "Colonel Bogey March (UK)"
+ the_d_day_dodgers:0 "The D-day Dodgers (UK)"
+ the_soldiers_dream:0 "The Soldier's Dream (UK)"
  
  #USA
  boogie_woogie_bugle_boy:0 "Boogie Woogie Bugle Boy (USA)"
@@ -143,6 +147,8 @@
  oktobersong:0 "Oktobersong (German)"
  lili_marleen:0 "Lili Marleen (German)"
  einheitsfrontlied:0 "Einheitsfrontlied (German)"
+ jubelklaengemarsch:0 "Jubelklänge Marsch (German)"
+ florentinermarsch:0 "Florentiner Marsch (German)"
  
  #Japan
  kimi_ga_yo:0 "Kimi Ga Yo (Japanese)"
@@ -204,6 +210,7 @@
  inno_dei_carristi:0 "Inno dei Carristi (Italian)"
  inno_al_re:0 "Inno al Re (Italian)"
  fischia_il_sasso:0 "Fischia il Sasso (Italian)"
+ com_e_bella_la_citta:0 "Com'è Bella La Città (Italian)"
  
  #France
  la_marseillaise:0 "La Marseillaise (French)"
@@ -223,3 +230,4 @@
  on_ne_passe_pas:0 "On ne Passe Pas (French)"
  degeneration:0 "Dégénération (Québécois)"
  le_chant_des_partisans:0 "Le Chant des Partisans (French)"
+ le_reve_passe:0 "Le rêve passé (French)"

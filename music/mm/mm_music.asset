@@ -33,5 +33,14 @@ music = {
 music = {
 	name = "piano_concerto_one"
 	file = "all_pianoconcertoone.ogg"
+}
 
+music = {
+	name = "the_blue_danube_waltz"
+	file = "all_thebluedanubewaltz.ogg"
+}
 
+music = {
+	name = "ode_an_die_freude"
+	file = "all_odeandiefreude.ogg"
+}

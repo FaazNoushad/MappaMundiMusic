@@ -375,3 +375,24 @@ music = {
 	}
 }
 
+music = {
+	song = "jubelklaengemarsch"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
+
+music = {
+	song = "florentinermarsch"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}

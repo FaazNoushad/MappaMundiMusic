@@ -173,3 +173,41 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "the_d_day_dodgers"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ENG
+		}
+		modifier = {
+			factor = 2
+			tag = EGL
+		}
+		modifier = {
+			factor = 2
+			tag = AST
+		}
+	}
+}
+
+music = {
+	song = "the_soldiers_dream"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ENG
+		}
+		modifier = {
+			factor = 2
+			tag = EGL
+		}
+		modifier = {
+			factor = 2
+			tag = AST
+		}
+	}
+}

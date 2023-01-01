@@ -87,3 +87,8 @@ music = {
 	file = "ita_fischiailsasso.ogg"
 	volume = 0.65
 }
+music = {
+	name = "com_e_bella_la_citta"
+	file = "ita_comebellalacitta.ogg"
+	volume = 0.65
+}

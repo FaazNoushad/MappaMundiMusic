@@ -177,3 +177,15 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "le_reve_passe"
+	
+	chance = {
+		modifier = {	
+			factor = 2
+			tag = FRA
+			tag = QUE
+		}
+	}
+}
