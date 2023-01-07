@@ -225,3 +225,15 @@ music = {
 	file = "ger_florentinermarsch.ogg"
 	volume = 0.65
 }
+
+music = {
+	name = "heileuropamarsch"
+	file = "ger_heileuropamarsch.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "marschauspetersburg"
+	file = "ger_marschauspetersburg.ogg"
+	volume = 0.65
+}

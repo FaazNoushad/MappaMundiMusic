@@ -396,3 +396,25 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "heileuropamarsch"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
+
+music = {
+	song = "marschauspetersburg"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
