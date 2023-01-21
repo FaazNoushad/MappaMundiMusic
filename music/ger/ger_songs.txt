@@ -418,3 +418,14 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "diemoorsoldaten"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}

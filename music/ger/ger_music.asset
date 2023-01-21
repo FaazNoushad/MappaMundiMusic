@@ -237,3 +237,9 @@ music = {
 	file = "ger_marschauspetersburg.ogg"
 	volume = 0.65
 }
+
+music = {
+	name = "diemoorsoldaten"
+	file = "ger_diemoorsoldaten.ogg"
+	volume = 0.65
+}
