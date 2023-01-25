@@ -440,3 +440,14 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "wenndiesoldaten"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
