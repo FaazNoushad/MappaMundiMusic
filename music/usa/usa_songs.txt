@@ -99,3 +99,25 @@ music = {
 		}
 	}
 }
+
+music = {	
+	song = "aintiright"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = USA
+		}
+	}
+}
+
+music = {	
+	song = "solidarityforever"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = USA
+		}
+	}
+}

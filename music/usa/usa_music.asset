@@ -51,3 +51,15 @@ music = {
 	file = "usa_yankeedoodle.ogg"
 	volume = 0.9
 }
+
+music = {
+	name = "aintiright"
+	file = "usa_aintiright.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "solidarityforever"
+	file = "usa_solidarityforever.ogg"
+	volume = 0.9
+}
