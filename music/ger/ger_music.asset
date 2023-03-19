@@ -255,3 +255,9 @@ music = {
 	file = "ger_wenndiesoldaten.ogg"
 	volume = 0.65
 }
+
+music = {
+	name = "heckerlied"
+	file = "ger_heckerlied.ogg"
+	volume = 0.65
+}
