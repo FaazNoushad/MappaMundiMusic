@@ -462,3 +462,14 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "unterderadmiralsflagge"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
