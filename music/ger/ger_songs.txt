@@ -473,3 +473,14 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "odeutschlandhochinehren"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
