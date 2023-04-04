@@ -121,3 +121,25 @@ music = {
 		}
 	}
 }
+
+music = {	
+	song = "anythinggoes"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = USA
+		}
+	}
+}
+
+music = {	
+	song = "theyellowroseoftexas"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = USA
+		}
+	}
+}

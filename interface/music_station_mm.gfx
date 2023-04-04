@@ -47,4 +47,10 @@ spriteTypes = {
 		texturefile = "gfx//interface//topbar//musicplayer//eng_album_art.dds"
 		noOfFrames = 2
 	}
+	
+	spriteType = {
+		name = "GFX_ire_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//ire_album_art.dds"
+		noOfFrames = 2
+	}
 }

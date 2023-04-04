@@ -111,6 +111,8 @@
  yankee_doodle:0 "Yankee Doodle (American)"
  aintiright:0 "Ain't I Right (American)"
  solidarityforever:0 "Solidarity Forever (American)"
+ anythinggoes:0 "Anything Goes (American)"
+ theyellowroseoftexas:0 "The Yellow Rose of Texas (American)"
  
  #Germany
  horst_wessel_lied:0 "Horst Wessel Lied (German)"
@@ -241,3 +243,6 @@
  degeneration:0 "Dégénération (Québécois)"
  le_chant_des_partisans:0 "Le Chant des Partisans (French)"
  le_reve_passe:0 "Le rêve passé (French)"
+ 
+ #Ireland
+ kinkyboots:0 "Kinky Boots (Irish)"

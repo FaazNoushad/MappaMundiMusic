@@ -63,3 +63,15 @@ music = {
 	file = "usa_solidarityforever.ogg"
 	volume = 0.9
 }
+
+music = {
+	name = "anythinggoes"
+	file = "usa_anythinggoes.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "theyellowroseoftexas"
+	file = "usa_theyellowroseoftexas.ogg"
+	volume = 0.9
+}
