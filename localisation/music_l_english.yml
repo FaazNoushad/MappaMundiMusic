@@ -9,6 +9,7 @@
  jap_TITLE:0 "Japanese Music"
  usa_TITLE:0 "American Music"
  eng_TITLE:0 "British Music"
+ ire_TITLE:0 "Irish Music"
 
  # HOI4 Soundtrack
  allies_war_4:0 "Allies Theme"
@@ -246,3 +247,5 @@
  
  #Ireland
  kinkyboots:0 "Kinky Boots (Irish)"
+ goonhomebritishsoldiers:0 "Go On Home British Soldiers (Irish)"
+ anationonceagain:0 "A Nation Once Again (Irish)"

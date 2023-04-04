@@ -1,8 +1,29 @@
-
 music_station = "ire"
 
 music = {
 	song = "kinkyboots"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = IRE
+		}
+	}
+}
+
+music = {
+	song = "goonhomebritishsoldiers"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = IRE
+		}
+	}
+}
+
+music = {
+	song = "anationonceagain"
 	
 	chance = {
 		modifier = {
