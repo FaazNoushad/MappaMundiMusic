@@ -1,4 +1,3 @@
-
 music_station = "eng"
 
 music = {
@@ -195,6 +194,25 @@ music = {
 
 music = {
 	song = "the_soldiers_dream"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ENG
+		}
+		modifier = {
+			factor = 2
+			tag = EGL
+		}
+		modifier = {
+			factor = 2
+			tag = AST
+		}
+	}
+}
+
+music = {
+	song = "hope_and_glory"
 	
 	chance = {
 		modifier = {

@@ -69,3 +69,9 @@ music = {
 	file = "eng_thesoldiersdream.ogg"
 	volume = 0.9
 }
+
+music = {
+	name = "hope_and_glory"
+	file = "eng_hopeandglory.ogg"
+	volume = 0.9
+}

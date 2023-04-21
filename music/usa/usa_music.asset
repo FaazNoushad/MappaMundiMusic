@@ -75,3 +75,9 @@ music = {
 	file = "usa_theyellowroseoftexas.ogg"
 	volume = 0.9
 }
+
+music = {
+	name = "thisland"
+	file = "usa_thisland.ogg"
+	volume = 0.9
+}

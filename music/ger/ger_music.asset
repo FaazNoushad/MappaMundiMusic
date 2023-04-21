@@ -273,3 +273,21 @@ music = {
 	file = "ger_odeutschlandhochinehren.ogg"
 	volume = 0.65
 }
+
+music = {
+	name = "hitlerleute"
+	file = "ger_hitlerleute.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ichbinsoldat"
+	file = "ger_ichbinsoldat.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ineinempolenstadtchen"
+	file = "ger_ineinempolenstadtchen.ogg"
+	volume = 0.65
+}

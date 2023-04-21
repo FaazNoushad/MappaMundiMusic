@@ -99,6 +99,7 @@
  colonel_bogey_march:0 "Colonel Bogey March (British)"
  the_d_day_dodgers:0 "The D-day Dodgers (British)"
  the_soldiers_dream:0 "The Soldier's Dream (British)"
+ hope_and_glory:0 "Land of Hope and Glory (British)"
  
  #USA
  boogie_woogie_bugle_boy:0 "Boogie Woogie Bugle Boy (American)"
@@ -114,6 +115,7 @@
  solidarityforever:0 "Solidarity Forever (American)"
  anythinggoes:0 "Anything Goes (American)"
  theyellowroseoftexas:0 "The Yellow Rose of Texas (American)"
+ thisland:0 "This Land Was Made for You and Me (American)"
  
  #Germany
  horst_wessel_lied:0 "Horst Wessel Lied (German)"
@@ -162,6 +164,9 @@
  heckerlied:0 "Heckerlied (German)"
  unterderadmiralsflagge:0 "Unter Der Admiralsflagge (German)"
  odeutschlandhochinehren:0 "O Deutschland Hoch in Ehren (German)"
+ hitlerleute:0 "Hitlerleute (German)"
+ ichbinsoldat:0 "Ich Bin Soldat (German)"
+ ineinempolenstadtchen:0 "In einem Polenstädtchen (German)"
  
  #Japan
  kimi_ga_yo:0 "Kimi Ga Yo (Japanese)"
