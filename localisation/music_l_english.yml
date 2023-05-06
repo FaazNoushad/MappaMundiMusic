@@ -83,9 +83,8 @@
  march_slave:0 "March Slave (Tchaikovsky)"
  liebestraum:0 "Liebestraum No. 3 (Liszt)"
  the_blue_danube_waltz:0 "The Blue Danube Waltz (Strauss)"
- ode_an_die_freude:0 "Ode an Die Freude (Beethoven)"
+ ode_an_die_freude:0 "Ode to Joy (Beethoven)"
 
- 
  #UK
  dont_lets_be_beastly_to_the_germans:0 "Don't Let's Be Beastly To The Germans (British)"
  kiss_me_goodnight_sergeant_major:0 "Kiss Me Goodnight Sergeant Major (British)"
@@ -248,7 +247,7 @@
  on_ne_passe_pas:0 "On ne Passe Pas (French)"
  degeneration:0 "Dégénération (Québécois)"
  le_chant_des_partisans:0 "Le Chant des Partisans (French)"
- le_reve_passe:0 "Le rêve passé (French)"
+ le_reve_passe:0 "Le Rêve Passé (French)"
  
  #Ireland
  kinkyboots:0 "Kinky Boots (Irish)"
