@@ -517,3 +517,14 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "meinstdudierussenwollenkrieg"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}

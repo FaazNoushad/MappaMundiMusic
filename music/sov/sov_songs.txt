@@ -405,3 +405,18 @@ music = {
 		}
 	}	
 }
+
+music = {
+	song = "doyouthinktherussianswantwar"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+		modifier = {
+			factor = 2
+			tag = RUS
+		}
+	}	
+}
