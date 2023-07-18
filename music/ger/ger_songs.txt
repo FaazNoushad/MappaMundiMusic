@@ -528,3 +528,36 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "siegfriedlinie"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
+
+music = {
+	song = "weitistderwegzuruckinsheimatland"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
+
+music = {
+	song = "dasmachtdieregimentsmusik"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
