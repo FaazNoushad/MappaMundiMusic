@@ -80,3 +80,13 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "entry_of_the_gladiators"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
