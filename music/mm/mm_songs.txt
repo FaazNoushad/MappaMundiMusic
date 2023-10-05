@@ -90,3 +90,13 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "die_fledermaus"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}

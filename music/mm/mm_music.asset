@@ -49,3 +49,8 @@ music = {
 	name = "entry_of_the_gladiators"
 	file = "all_entryofthegladiators.ogg"
 }
+
+music = {
+	name = "die_fledermaus"
+	file = "all_diefledermaus.ogg"
+}
