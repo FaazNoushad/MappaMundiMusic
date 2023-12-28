@@ -561,3 +561,14 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "einzugsmarsch"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}

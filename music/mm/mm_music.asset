@@ -54,3 +54,28 @@ music = {
 	name = "die_fledermaus"
 	file = "all_diefledermaus.ogg"
 }
+
+music = {
+	name = "morgenblatter"
+	file = "all_morgenblatter.ogg"
+}
+
+music = {
+	name = "spharenklange"
+	file = "all_spharenklange.ogg"
+}
+
+music = {
+	name = "nachtschwarmer"
+	file = "all_nachtschwarmer.ogg"
+}
+
+music = {
+	name = "wer_tanzt_mit"
+	file = "all_wer_tanzt_mit.ogg"
+}
+
+music = {
+	name = "du_und_du_walzer"
+	file = "all_du_und_du_walzer.ogg"
+}

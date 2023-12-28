@@ -100,3 +100,53 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "morgenblatter"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "spharenklange"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "nachtschwarmer"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "wer_tanzt_mit"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "du_und_du_walzer"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}

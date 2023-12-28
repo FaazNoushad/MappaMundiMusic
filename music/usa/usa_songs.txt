@@ -154,3 +154,47 @@ music = {
 		}
 	}
 }
+
+music = {	
+	song = "fromthehallsofmontezuma"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = USA
+		}
+	}
+}
+
+music = {	
+	song = "americathebeautiful"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = USA
+		}
+	}
+}
+
+music = {	
+	song = "when_johnny_comes_marching_home"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = USA
+		}
+	}
+}
+
+music = {	
+	song = "if_you_aint_been_called_a_red"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = USA
+		}
+	}
+}
