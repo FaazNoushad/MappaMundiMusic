@@ -198,3 +198,14 @@ music = {
 		}
 	}
 }
+
+music = {	
+	song = "hold_the_fort"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = USA
+		}
+	}
+}

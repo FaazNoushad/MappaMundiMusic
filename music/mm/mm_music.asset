@@ -79,3 +79,18 @@ music = {
 	name = "du_und_du_walzer"
 	file = "all_du_und_du_walzer.ogg"
 }
+
+music = {
+	name = "wiener_blut"
+	file = "all_wiener_blut.ogg"
+}
+
+music = {
+	name = "lehar_ballsirenen"
+	file = "all_lehar_ballsirenen.ogg"
+}
+
+music = {
+	name = "marinarella_overture"
+	file = "all_marinarella_overture.ogg"
+}

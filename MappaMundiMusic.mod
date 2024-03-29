@@ -7,6 +7,6 @@ dependencies={
 	"Mappa Mundi - Github Version"
 	"Mappa Mundi"
 }
-supported_version="1.13.*"
+supported_version="1.14.*"
 path="mod/MappaMundiMusic"
 replace_path = "music"

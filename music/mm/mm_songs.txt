@@ -150,3 +150,33 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "wiener_blut"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "lehar_ballsirenen"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "marinarella_overture"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}

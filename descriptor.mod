@@ -1,4 +1,4 @@
-supported_version="1.13.*"
+supported_version="1.14.*"
 tags={
 	"Sound"
 	"Gameplay"

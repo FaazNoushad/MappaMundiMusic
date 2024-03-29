@@ -420,3 +420,48 @@ music = {
 		}
 	}	
 }
+
+music = {
+	song = "wide_is_my_motherland"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+		modifier = {
+			factor = 2
+			tag = RUS
+		}
+	}	
+}
+
+music = {
+	song = "farewell_germany"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+		modifier = {
+			factor = 2
+			tag = RUS
+		}
+	}	
+}
+
+music = {
+	song = "to_serve_russia"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+		modifier = {
+			factor = 2
+			tag = RUS
+		}
+	}	
+}

@@ -105,3 +105,9 @@ music = {
 	file = "usa_ifyouaintbeencalledared.ogg"
 	volume = 0.9
 }
+
+music = {
+	name = "hold_the_fort"
+	file = "usa_hold_the_fort.ogg"
+	volume = 0.9
+}
