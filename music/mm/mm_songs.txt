@@ -52,7 +52,127 @@ music = {
 }
 
 music = {
+	song = "the_blue_danube_waltz"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "ode_an_die_freude"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
 	song = "symphony_nine_from_the_new_world"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "entry_of_the_gladiators"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "die_fledermaus"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "morgenblatter"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "spharenklange"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "nachtschwarmer"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "wer_tanzt_mit"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "du_und_du_walzer"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "wiener_blut"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "lehar_ballsirenen"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "marinarella_overture"
 	
 	chance = {
 		modifier = {

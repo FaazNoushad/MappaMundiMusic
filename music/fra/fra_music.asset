@@ -93,3 +93,9 @@ music = {
 	file = "fra_degeneration.ogg"
 	volume = 0.65
 }
+
+music = {
+	name = "le_reve_passe"
+	file = "fra_lerevepasse.ogg"
+	volume = 0.65
+}

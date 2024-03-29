@@ -1,0 +1,17 @@
+music = {
+	name = "kinkyboots"
+	file = "ire_kinkyboots.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "goonhomebritishsoldiers"
+	file = "ire_goonhomebritishsoldiers.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "anationonceagain"
+	file = "ire_anationonceagain.ogg"
+	volume = 0.9
+}

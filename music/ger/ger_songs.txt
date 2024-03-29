@@ -375,3 +375,200 @@ music = {
 	}
 }
 
+music = {
+	song = "jubelklaengemarsch"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
+
+music = {
+	song = "florentinermarsch"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
+
+music = {
+	song = "heileuropamarsch"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
+
+music = {
+	song = "marschauspetersburg"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
+
+music = {
+	song = "diemoorsoldaten"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
+
+music = {
+	song = "kruppundkrause"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
+
+music = {
+	song = "wenndiesoldaten"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
+
+music = {
+	song = "heckerlied"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
+
+music = {
+	song = "unterderadmiralsflagge"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
+
+music = {
+	song = "odeutschlandhochinehren"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
+
+music = {
+	song = "hitlerleute"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
+
+music = {
+	song = "ichbinsoldat"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
+
+music = {
+	song = "ineinempolenstadtchen"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
+
+music = {
+	song = "meinstdudierussenwollenkrieg"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
+
+music = {
+	song = "siegfriedlinie"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
+
+music = {
+	song = "weitistderwegzuruckinsheimatland"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
+
+music = {
+	song = "dasmachtdieregimentsmusik"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}
+
+music = {
+	song = "einzugsmarsch"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = GER
+		}
+	}
+}

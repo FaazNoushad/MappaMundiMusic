@@ -9,4 +9,4 @@ dependencies={
 }
 supported_version="1.14.*"
 path="mod/MappaMundiMusic"
-replace_path = "music" 
+replace_path = "music"

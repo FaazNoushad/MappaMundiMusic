@@ -99,3 +99,113 @@ music = {
 		}
 	}
 }
+
+music = {	
+	song = "aintiright"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = USA
+		}
+	}
+}
+
+music = {	
+	song = "solidarityforever"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = USA
+		}
+	}
+}
+
+music = {	
+	song = "anythinggoes"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = USA
+		}
+	}
+}
+
+music = {	
+	song = "theyellowroseoftexas"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = USA
+		}
+	}
+}
+
+music = {	
+	song = "thisland"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = USA
+		}
+	}
+}
+
+music = {	
+	song = "fromthehallsofmontezuma"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = USA
+		}
+	}
+}
+
+music = {	
+	song = "americathebeautiful"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = USA
+		}
+	}
+}
+
+music = {	
+	song = "when_johnny_comes_marching_home"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = USA
+		}
+	}
+}
+
+music = {	
+	song = "if_you_aint_been_called_a_red"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = USA
+		}
+	}
+}
+
+music = {	
+	song = "hold_the_fort"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = USA
+		}
+	}
+}

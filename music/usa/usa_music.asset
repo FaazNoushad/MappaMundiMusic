@@ -51,3 +51,63 @@ music = {
 	file = "usa_yankeedoodle.ogg"
 	volume = 0.9
 }
+
+music = {
+	name = "aintiright"
+	file = "usa_aintiright.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "solidarityforever"
+	file = "usa_solidarityforever.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "anythinggoes"
+	file = "usa_anythinggoes.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "theyellowroseoftexas"
+	file = "usa_theyellowroseoftexas.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "thisland"
+	file = "usa_thisland.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "fromthehallsofmontezuma"
+	file = "usa_fromthehallsofmontezuma.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "americathebeautiful"
+	file = "usa_americathebeautiful.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "when_johnny_comes_marching_home"
+	file = "usa_when_johnny_comes_marching_home.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "if_you_aint_been_called_a_red"
+	file = "usa_ifyouaintbeencalledared.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "hold_the_fort"
+	file = "usa_hold_the_fort.ogg"
+	volume = 0.9
+}
