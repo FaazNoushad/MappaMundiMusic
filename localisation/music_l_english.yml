@@ -78,7 +78,7 @@
  #Songs for all Nations
  maintheme:0 "Main Theme - Mappa Mundi"
  mozart_requiem:0 "Requiem in D Minor"
- piano_concerto_one:0 "Piano Concerto No. 1 in B Flat Minor"
+ piano_concerto_one:0 "Piano Concerto"
  symphony_nine_from_the_new_world:0 "Symphony No. 9 'From the New World'"
  march_slave:0 "March Slave"
  liebestraum:0 "Liebestraum No. 3"
@@ -93,7 +93,8 @@
  du_und_du_walzer:0 "Du Und Du Walzer"
  wiener_blut:0 "Wiener Blut"
  lehar_ballsirenen:0 "Lehár Ballsirenen"
- marinarella_overture:0 "Narinarella Overture"
+ marinarella_overture:0 "Marinarella Overture"
+ waltz_of_the_flowers:0 "Waltz of the Flowers"
 
  #UK
  dont_lets_be_beastly_to_the_germans:0 "Don't Let's Be Beastly To The Germans"

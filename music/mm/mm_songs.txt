@@ -180,3 +180,13 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "waltz_of_the_flowers"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}

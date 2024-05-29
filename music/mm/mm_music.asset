@@ -94,3 +94,8 @@ music = {
 	name = "marinarella_overture"
 	file = "all_marinarella_overture.ogg"
 }
+
+music = {
+	name = "waltz_of_the_flowers"
+	file = "all_waltz_of_the_flowers.ogg"
+}
