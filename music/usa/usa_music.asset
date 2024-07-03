@@ -117,3 +117,9 @@ music = {
 	file = "usa_fortunate_son.ogg"
 	volume = 0.9
 }
+
+music = {
+	name = "uranium_fever"
+	file = "usa_uranium_fever.ogg"
+	volume = 0.9
+}
