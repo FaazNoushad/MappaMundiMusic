@@ -229,3 +229,41 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "fuck_em_all"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ENG
+		}
+		modifier = {
+			factor = 2
+			tag = EGL
+		}
+		modifier = {
+			factor = 2
+			tag = AST
+		}
+	}
+}
+
+music = {
+	song = "i_dont_want_to_join_the_army"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = ENG
+		}
+		modifier = {
+			factor = 2
+			tag = EGL
+		}
+		modifier = {
+			factor = 2
+			tag = AST
+		}
+	}
+}

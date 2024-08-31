@@ -465,3 +465,18 @@ music = {
 		}
 	}	
 }
+
+music = {
+	song = "goodbye_forever"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			tag = SOV
+		}		
+		modifier = {
+			factor = 2
+			tag = RUS
+		}
+	}	
+}

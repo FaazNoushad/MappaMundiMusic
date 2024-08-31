@@ -75,3 +75,15 @@ music = {
 	file = "eng_hopeandglory.ogg"
 	volume = 0.9
 }
+
+music = {
+	name = "fuck_em_all"
+	file = "eng_fuck_em_all.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "i_dont_want_to_join_the_army"
+	file = "eng_i_dont_want_to_join_the_army.ogg"
+	volume = 0.9
+}
